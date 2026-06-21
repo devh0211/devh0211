@@ -1,9 +1,7 @@
 <div align="center">
-  <h1>Hi, I'm Dev <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Hey, I'm Dev <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+@+Nirma+University;Building+Algorithms+with+C%2B%2B;Designing+Local+LLM+Pipelines;Crafting+System+Artifacts" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=27&pause=1000&color=FFB703&center=true&vCenter=true&width=700&lines=CS+Undergrad+@+Nirma+University;Building+Algorithms+with+C%2B%2B;Designing+Local+LLM+Pipelines;Crafting+System+Artifacts" alt="Typing SVG" />
 </div>
 
 ### 👨‍💻 `whoami`
