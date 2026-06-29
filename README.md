@@ -38,10 +38,6 @@ Outside of coding and academics, I treat the Indian equity markets as a quantita
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devh0211&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117&icon_color=79C0FF&title_color=C9D1D9&text_color=8B949E" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devh0211&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" alt="Top Languages" />
-</p>
 <br>
 <p align="center">
   <a href="https://codeforces.com/profile/trustyStranger">
